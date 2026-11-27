@@ -1,0 +1,15 @@
+[submodule "Engine/GameEngine"]
+	path = Engine/GameEngine
+	url = https://github.com/FUREQ-DEVELOP/GameEngine.git
+[submodule "Source"]
+	path = Source
+	url = https://github.com/FUREQ-DEVELOP/Game-001-Code.git
+[submodule "Assets/Art"]
+	path = Assets/Art
+	url = https://github.com/FUREQ-DEVELOP/Game-001-Art.git
+[submodule "Design"]
+	path = Design
+	url = https://github.com/FUREQ-DEVELOP/Game-001-Design.git
+[submodule "Tools/DevelopmentTools"]
+	path = Tools/DevelopmentTools
+	url = https://github.com/FUREQ-DEVELOP/DevelopmentTools.git
